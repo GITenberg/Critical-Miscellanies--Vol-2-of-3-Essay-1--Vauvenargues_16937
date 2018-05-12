@@ -1,0 +1,29 @@
+_repo: Critical-Miscellanies--Vol-2-of-3-Essay-1--Vauvenargues_16937
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morley, John
+    alias: Morley, Viscount
+    birthdate: 1838
+    deathdate: 1923
+    gutenberg_agent_id: '3767'
+    url: http://www.gutenberg.org/2009/agents/3767
+    wikipedia: http://en.wikipedia.org/wiki/John_Morley,_1st_Viscount_Morley_of_Blackburn
+description: ''
+gutenberg_issued: '2005-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16937'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophers -- France -- Biography'
+- !lcsh 'Vauvenargues, 1715-1747'
+- !lcc 'BJ'
+title: 'Critical Miscellanies (Vol 2 of 3), Essay 1: Vauvenargues'
+url: http://www.gutenberg.org/ebooks/16937
